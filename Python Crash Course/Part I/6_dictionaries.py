@@ -7,4 +7,4 @@ person = {
 }
 
 for k, v in person.items():
-    print(k.title())
+    print(f"\n{k}, {v}")
